@@ -1,2 +1,2 @@
 # Pokedex
-This repository has been discontinued and closed se quiser outros repositórios do nootlnc entre em https://nootlnc.github.io/Nootlnc-Web-/ The Pokedex project was discontinued to avoid violating copyrights
+This repository has been discontinued and closed If you want other nootlnc repositories, go to  https://nootlnc.github.io/Nootlnc-Web-/ The Pokedex project was discontinued to avoid violating copyrights
